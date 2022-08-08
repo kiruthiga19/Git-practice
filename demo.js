@@ -11,3 +11,4 @@ const firstName=30;
 console.log(firstName);
 // if
 
+
